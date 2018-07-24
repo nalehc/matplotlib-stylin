@@ -1,0 +1,71 @@
+#Color Palette
+axes.prop_cycle: cycler('color', ['2c5986', '3f8fae', 'bce4d5', 'c9cecf', '7bb4c4', '7d9990'])
+patch.facecolor: 2c5986
+
+#From fast
+path.simplify: True
+path.simplify_threshold: 1.0
+agg.path.chunksize: 10000
+
+figure.figsize: 12.8, 8.8
+axes.labelsize: 17.6
+axes.titlesize: x-large
+xtick.labelsize: large
+ytick.labelsize: 16
+legend.fontsize: 16
+
+grid.linewidth: 0.8
+lines.linewidth: 2.8
+patch.linewidth: 0.48
+lines.markersize: 11.2
+lines.markeredgewidth: 0
+
+xtick.major.width: 1.6
+ytick.major.width: 1.6
+xtick.minor.width: 0.8
+ytick.minor.width: 0.8
+
+xtick.major.pad: 11.2
+ytick.major.pad: 11.2
+
+text.color: .15
+axes.facecolor: white
+axes.edgecolor: white
+axes.labelcolor: .15
+
+xtick.color: .15
+ytick.color: .15
+
+grid.color: grey
+
+figure.facecolor: white
+
+legend.frameon: False
+legend.numpoints: 1
+legend.scatterpoints: 1
+
+xtick.direction: out
+ytick.direction: out
+
+axes.axisbelow: True
+image.cmap: gnuplot2
+font.family: sans-serif
+font.sans-serif: Arial, Liberation Sans, DejaVu Sans, Bitstream Vera Sans, sans-serif
+grid.linestyle: dotted
+lines.solid_capstyle: round
+axes.grid: True
+axes.linewidth: 1.25
+xtick.major.size: 0
+ytick.major.size: 0
+xtick.minor.size: 0
+ytick.minor.size: 0
+
+patch.antialiased: True
+font.size: 10.0
+
+
+
+
+
+
+
