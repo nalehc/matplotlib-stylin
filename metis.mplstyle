@@ -1,6 +1,6 @@
 #Color Palette
-axes.prop_cycle: cycler('color', ['2c5986', '3f8fae', 'bce4d5', 'c9cecf', '7bb4c4', '7d9990'])
-patch.facecolor: 2c5986
+axes.prop_cycle: cycler('color', ['444A47', '399fd9', 'FFFFFF', '1f5e85', '313131', 'dc2d8a'])
+patch.facecolor: 444A47
 
 #From fast
 path.simplify: True
